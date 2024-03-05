@@ -1,3 +1,5 @@
-#LANDING PAGE
+Landing Page Project
+This is a simple landing page project created using HTML and CSS.
 
-This is a simple landing page template designed using HTML and CSS, emphasizing fundamental web development concepts.
+Description
+This project is a basic landing page template designed using HTML and CSS. It can serve as a starting point for building your own landing pages for websites or web applications.
